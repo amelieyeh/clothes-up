@@ -1,4 +1,4 @@
-import Page from "../components/Page";
+import Page from '../components/Page';
 
 export default function App({ Component, pageProps }) {
   return (
